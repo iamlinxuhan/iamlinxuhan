@@ -39,7 +39,7 @@ Debian / RPM 打包 · Git
 #### 📫 联系
 
 - 邮箱：DarkMark_Hacker@outlook.com · 2276677131@qq.com
-- Issues / PR 都欢迎，尤其是 GomokuAI
+- Issues / PR 都欢迎，尤其是 GomokuAI 项目。我们正在极力加强 GomokuAI 项目的可玩性。
 
 ---
 
